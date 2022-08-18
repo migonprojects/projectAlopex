@@ -1,3 +1,14 @@
+'''
+Migon projectAlopex Trifid Cipher Tool
+
+This tool is part of the greater projectAlopex effort, the main objective of which 
+is the creation of digital and user friendly classical cipher tools. Despite of the
+mere elementary and amateurish quality of this work, I hope you like it and (why not)
+further enhance it at your dispodal.
+
+Have Fun!
+'''
+
 import string
 import random
 
